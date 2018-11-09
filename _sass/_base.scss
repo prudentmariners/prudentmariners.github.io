@@ -42,6 +42,14 @@ p {
     margin-bottom: 20px;
 }
 
+input[type=email] {
+  @include sans-serif-font;
+}
+
+label {
+  @include sans-serif-font;
+}
+
 .bg-primary {
     background-color: $theme-primary;
 }
@@ -348,4 +356,3 @@ img::-moz-selection {
 body {
     -webkit-tap-highlight-color: $theme-dark;
 }
-

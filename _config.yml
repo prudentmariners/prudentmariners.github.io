@@ -1,12 +1,16 @@
 # Site settings
-title:
-email:
+title: "Prudent Mariners :: A Marine Services Company"
+email: "info@prudentmariners.com"
 description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "https://www.prudentmariners.com" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: prudentmariners
+instagram_username: prudentmariners
+facebook_username: prudentmariners
+phone: "305-684-7231"
+
+google_analytics: UA-129009825-1
 
 # Build settings
 markdown: kramdown
