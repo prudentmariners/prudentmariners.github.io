@@ -14,3 +14,7 @@ google_analytics: UA-129009825-1
 
 # Build settings
 markdown: kramdown
+
+#gh-pages
+url: https://www.prudentmariners.com
+enforce_ssl: www.prudentmariners.com
