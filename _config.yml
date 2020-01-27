@@ -1,7 +1,11 @@
 # Site settings
-title: "Prudent Mariners :: A Marine Services Company"
+title: "Prudent Mariners :: A Mobile Marine Services Company"
 email: "info@prudentmariners.com"
 description: > # this means to ignore newlines until "baseurl:"
+              "We are the premiere full service mobile marine company on the
+              Chesapeake Bay, serving Virginia, Maryland, Delaware and North Eastern North Carolina,
+              specializing in cruising yacht maintenance, repair and delivery."
+
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.prudentmariners.com" # the base hostname & protocol for your site
 
