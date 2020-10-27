@@ -23,3 +23,4 @@ markdown: kramdown
 #gh-pages
 url: https://www.prudentmariners.com
 enforce_ssl: www.prudentmariners.com
+repository: prudentmariners.github.io
