@@ -1,21 +1,27 @@
 basic_settings:
-  site_title: Journal
-  site_tagline: A stunning personal blog Jekyll theme with an image-focused design.
+  site_title: Prudent Mariners
+  site_tagline: Quality yacht service on the Chesapeake and beyond
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 200
   overlay_opacity: 0.7
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Home'
       url: '/'
+    - title: 'Rigging'
+      url: '/rigging'
+    - title: 'Electrical'
+      url: '/electrical'
     - title: 'Projects'
       url: '/projects/'
     - title: 'About'
       url: '/about'
+    - title: 'Blog'
+      url: '/blog'
     - title: 'Contact'
       url: '/contact'
 
@@ -29,11 +35,11 @@ contact_settings:
   send_button_text: 'Send Message'
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
+  facebook_url: 'https://www.facebook.com/prudentmariners'
+  twitter_url: 'http://twitter.com/prudentmariners'
+  instagram_url: 'https://www.instagram.com/prudentmariners/'
   snapchat_url: ''
-  youtube_url: ''
+  youtube_url: 'https://youtube.com/channel/UCEciWv63Kez_M72GE_VnReQ'
   google-plus_url: ''
   vimeo_url: ''
   pinterest_url: ''
@@ -69,8 +75,8 @@ color_settings:
   error_color: '#D64541'
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Merriweather:300,400|Muli:400,400i,600" rel="stylesheet">'
-  title_font: '"Merriweather", sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Comfortaa:300,400|Muli:400,400i,600" rel="stylesheet">'
+  title_font: '"Comfortaa", sans-serif'
   body_font: '"Muli", sans-serif'
   regular_weight: 400
   bold_weight: 600
@@ -78,7 +84,7 @@ font_settings:
     small_size: 25
     medium_size: 30
     large_size: 35
-    weight: 400
+    weight: 700
     letter_spacing: 0
   site_tagline:
     small_size: 16
