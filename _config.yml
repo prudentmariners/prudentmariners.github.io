@@ -1,4 +1,5 @@
-# Site settings
+site: Journal Jekyll Theme
+
 title: "Prudent Mariners :: A Mobile Marine Services Company"
 email: "info@prudentmariners.com"
 description: > # this means to ignore newlines until "baseurl:"
@@ -6,8 +7,11 @@ description: > # this means to ignore newlines until "baseurl:"
               Chesapeake Bay, serving Virginia, Maryland, Delaware and North Eastern North Carolina,
               specializing in cruising yacht maintenance, repair and delivery."
 
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://www.prudentmariners.com" # the base hostname & protocol for your site
+#gh-pages
+url: https://www.prudentmariners.com
+enforce_ssl: www.prudentmariners.com
+repository: prudentmariners.github.io
+baseurl: ""
 
 twitter_username: prudentmariners
 instagram_username: prudentmariners
@@ -17,10 +21,54 @@ phone: "757-453-3092"
 
 google_analytics: UA-129009825-1
 
-# Build settings
+collections:
+  pages:
+    output: true
+    permalink: /:name
+  posts:
+    output: true
+    permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  -
+    scope:
+      path: ""
+      type: "projects"
+    values:
+      layout: "project"
+
 markdown: kramdown
 
-#gh-pages
-url: https://www.prudentmariners.com
-enforce_ssl: www.prudentmariners.com
-repository: prudentmariners.github.io
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 6
+paginate_path: "/blog/page:num/"
