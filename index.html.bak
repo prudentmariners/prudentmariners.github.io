@@ -1,0 +1,23 @@
+---
+layout: default
+title: Quality Yacht Services
+description: Prudent Mariners is your source for quality sailboat rigging and electrical work
+featured_image: /images/spinnaker.jpg
+---
+<section>
+<h2>This is a h2</h2>
+<p>This is a paragraph</p>
+</section>
+<div class="language-html highlighter-rouge">
+<div class="highlight">
+<pre class="highlight">
+  <code>
+    <section>
+    <h2>This is a h2</h2>
+    <p>This is a paragraph with a h2 sibling, inside of a section inside
+      of a code inside of a pre inside of a div</p>
+    </section>
+  </code>
+</pre>
+</div>
+</div>
