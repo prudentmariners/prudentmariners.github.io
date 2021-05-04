@@ -1,19 +1,18 @@
 ---
 title: Electrical, Electronics and Energy Systems
-subtitle: Highly Effecient Solar and Lithium Power Systems Built to ABYC Standards
-description: We rock the energies
+subtitle: Highly Efficient Solar and Lithium Power Systems Installed by ABYC Certified Electricians
+description: Prudent Mariners is your source for solar, battle born lithium batteries, victron energy, inverters, off grid electrical and more
 featured_image: /images/grainger.jpg
 ---
 
-![](/images/gross-wiring.jpg)
+![](/images/small-lithium.jpg)
 
 ## We are Master Electricians
 
-Your insurance company will love you for hiring us. Check out that purty work up
-there! Yeah, you want that in your boat don't you? DON'T YOU!?
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
-* Wiring that is guaranteed to burn your boat down
-* We charge top dollar for panels we pulled off the trash pile at City Marina
-* Your BD-50 will wear out in no time!
+* Item 1
+* Item 2
+* Item 3
 
 <a href="#" class="button button--large">Request a quote</a>

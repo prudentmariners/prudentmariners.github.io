@@ -15,16 +15,12 @@ featured_image: /images/spinnaker.jpg
 We take pride in being Prudent and Professional Mariners and that's why we
 started this company. A Prudent Mariner anticipates problems and fixes them
 before they happen, and it is our mission to help our customers become prudent,
-mastering the systems on their vessel, so they can enjoy every moment on the
-water.
+mastering the systems on their vessel, so they can confidently enjoy every
+moment on the water.
 
-We cater to both power and sailing vessels, and offer services ranging from
-exterior maintenance and repair, fiberglass, bright work, paint, blister repair,
-electrical systems, batteries, solar, engine, fuel, mechanical, hydraulics,
-anchoring systems, canvas, sails, upholstery and more. It takes a lot to keep
-the dream alive, and we're here to make sure you're underway safely and
-reliably. Contact us today to discuss the needs of your vessel.
 
+While we specialize in rigging and electrical services, we have a broad range of
+capabilities, so please don't hesitate to discuss your other projects with us.
 ## Electrical Solutions
 
 <section class="portfolio electrical">
