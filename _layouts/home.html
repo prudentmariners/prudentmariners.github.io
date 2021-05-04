@@ -1,13 +1,19 @@
 ---
 layout: default
 ---
+<div id="fb-root"></div>
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v9.0" nonce="KuwcDGtg"></script>
+
 
 <section class="intro hero">
 
 	<div class="wrap">
 
-		<h1>{{ page.title }}</h1>
+		<h1>
+			{{ page.title }}
+		</h1>
 		<p>{{ page.subtitle }}</p>
+		<a href="/quote" class="cta button button--large">Request a Quote</a>
 
 	</div>
 
@@ -15,10 +21,8 @@ layout: default
 
 <section class="single services">
 
-	<div class="wrap">
 
 		{{ page.content }}
 
-	</div>
 
 </section>

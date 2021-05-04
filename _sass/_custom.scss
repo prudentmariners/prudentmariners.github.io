@@ -1,0 +1,30 @@
+section.intro.hero {
+
+  background-color: #e0e0e0;
+  height: auto;
+  overflow: auto;
+
+  a.cta {
+    margin: 40px auto;
+  }
+}
+
+.hero::before {
+    content: "";
+    background-image: url('/images/logo.svg');
+    background-size: cover;
+    background-color: #c2c2c2;
+    position: absolute;
+    top: -50%;
+    right: 0px;
+    bottom: 0px;
+    left: 0px;
+    opacity: 0.25;
+}
+
+
+div.fb-post {
+
+  margin: 20px auto;
+  max-width: 75%;
+}

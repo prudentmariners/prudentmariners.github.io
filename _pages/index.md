@@ -3,37 +3,75 @@ permalink: '/'
 layout: home
 title: We Are Yacht Professionals
 subtitle: Quality and reliability are our top priorities
-description: A stunning personal blog Jekyll theme with an image-focused design.
+description: Premiere yacht services on the Chesapeake Bay and central Atlantic Coast, specializing in rigging, electrical, and solar & lithium energy solutions
 featured_image: /images/spinnaker.jpg
 ---
 
-<a href="/quote" class="button button--large">Request a Quote</a>
 
-![](/images/furlex.jpg)
+<!-- ![](/images/furlex.jpg) -->
 
-## Features
+## Broad Capabilities, Specialized Expertise
 
-Journal is packed with powerful features to showcase your work:
+We take pride in being Prudent and Professional Mariners and that's why we
+started this company. A Prudent Mariner anticipates problems and fixes them
+before they happen, and it is our mission to help our customers become prudent,
+mastering the systems on their vessel, so they can enjoy every moment on the
+water.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+We cater to both power and sailing vessels, and offer services ranging from
+exterior maintenance and repair, fiberglass, bright work, paint, blister repair,
+electrical systems, batteries, solar, engine, fuel, mechanical, hydraulics,
+anchoring systems, canvas, sails, upholstery and more. It takes a lot to keep
+the dream alive, and we're here to make sure you're underway safely and
+reliably. Contact us today to discuss the needs of your vessel.
 
-## Get Index
+## Electrical Solutions
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $49.
+<section class="portfolio electrical">
+  <div class="wrap">
+    <div class="portfolio-item">
+      <a class="portfolio-item__link" href="/electrical">
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+        <div class="portfolio-item__image" style="background-image: url(/images/panels.jpg);"></div>
+        <div class="portfolio-item__content">
+          <div class="portfolio-item__info">
+            <h2 class="portfolio-item__title">Solar & Lithium</h2>
+            <p class="portfolio-item__subtitle">Electrical power is easier than
+            ever to generate, store and use onboard. Systems and amenities that
+            were impossible in decades past are safe and affordable today. Let
+            us help you design and build the electrical and electronic systems
+            that provide your crew with comfort and peace of mind.</p>
+            <p><span href="/quote" class="button button--large">Request a Quote</span></p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+
+
+## Rigging
+
+<section class="portfolio rigging">
+  <div class="wrap">
+    <div class="portfolio-item">
+      <a class="portfolio-item__link" href="/rigging">
+
+        <div class="portfolio-item__image" style="background-image: url(/images/loops.jpg);"></div>
+        <div class="portfolio-item__content">
+          <div class="portfolio-item__info">
+            <h2 class="portfolio-item__title">Sailboat Rigging</h2>
+            <p class="portfolio-item__subtitle">Wether you are a competitive racer or a cruiser looking for that next comfortable achnorage, your rigging is what gets you there safely. We specialize in modern fibers and tailor your rigging to your boat, plans and crew.</p>
+            <p><span href="/quote" class="button button--large">Request a Quote</span></p>
+          </div>
+        </div>
+      </a>
+    </div>
+  </div>
+</section>
+
+> "Great job on my rigging. Claude is very knowledgable and reliable."
+
+
+<div class="fb-post" data-href="https://www.facebook.com/permalink.php?story_fbid=1439463219589691&amp;id=100005780799318" data-show-text="true" data-width=""><blockquote cite="https://www.facebook.com/permalink.php?story_fbid=1439463219589691&amp;id=100005780799318" class="fb-xfbml-parse-ignore"><p>Great job on my rigging.  Claude is very knowledgeable and reliable.</p>Posted by <a href="#" role="button">Don Smith</a> on&nbsp;<a href="https://www.facebook.com/permalink.php?story_fbid=1439463219589691&amp;id=100005780799318">Sunday, November 22, 2020</a></blockquote></div>

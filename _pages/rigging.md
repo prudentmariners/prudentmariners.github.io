@@ -17,3 +17,10 @@ on this critical system. Let us help you choose and install the right components
 * Maybe your mast won't fall down
 
 <a href="#" class="button button--large">Request a quote</a>
+
+<div class="gallery" data-columns="3">
+	<img src="/images/demo/demo-portrait.jpg">
+	<img src="/images/demo/demo-landscape.jpg">
+	<img src="/images/demo/demo-square.jpg">
+	<img src="/images/demo/demo-landscape-2.jpg">
+</div>
