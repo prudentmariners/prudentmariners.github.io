@@ -5,8 +5,10 @@ section.intro.hero {
   overflow: auto;
 
   a.cta {
-    margin: 40px auto;
+    margin: 20px auto;
   }
+
+  p { color: #666;}
 }
 
 .hero::before {
@@ -22,9 +24,26 @@ section.intro.hero {
     opacity: 0.45;
 }
 
+.menu__list__item__link {
+
+  &:hover::after {
+    content: "";
+    background-image: url('/images/logo.svg');
+    background-size: cover;
+    position: relative;
+    top:0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+
+  }
+}
+
 
 div.fb-post {
 
   margin: 20px auto;
   max-width: 75%;
 }
+
+.single.services { padding: 20px; }
