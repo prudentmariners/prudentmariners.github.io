@@ -44,15 +44,18 @@ div.fb-post {
 
   margin: 20px auto;
   width: 80%;
-  @include mq(desktop) {
-		width: 65%;
-	}
   display: block;
 }
 
 .single.services {
   padding: 20px;
 
-  img { width: 79%; }
+  img {
+    width: 90%;
+    @include mq(tabletl) {
+      width: 79%;
+    }
+  }
+
   blockquote { width: 88%; }
 }
