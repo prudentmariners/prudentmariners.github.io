@@ -44,6 +44,12 @@ div.fb-post {
 
   margin: 20px auto;
   max-width: 75%;
+  display: block;
 }
 
-.single.services { padding: 20px; }
+.single.services {
+  padding: 20px;
+
+  img { width: 79%; }
+  blockquote { width: 88%; }
+}

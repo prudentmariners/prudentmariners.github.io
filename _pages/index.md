@@ -23,7 +23,14 @@ While we specialize in rigging and electrical services, we have a broad range of
 capabilities, so please don't hesitate to discuss your other projects with us.
 ## Electrical Solutions
 
-<section class="portfolio electrical">
+![](/images/panels.jpg)
+
+Electrical power is easier than ever to generate, store and use onboard. Systems
+and amenities that were impossible in decades past are safe and affordable
+today. Letus help you design and build the electrical and electronic systems
+that provide your crew with comfort and peace of mind.
+
+<!-- <section class="portfolio electrical">
   <div class="wrap">
     <div class="portfolio-item">
       <a class="portfolio-item__link" href="/electrical">
@@ -43,13 +50,17 @@ capabilities, so please don't hesitate to discuss your other projects with us.
       </a>
     </div>
   </div>
-</section>
+</section> -->
 
 
 
 ## Rigging
+![](/images/loops.jpg)
+Wether you are a competitive racer or a cruiser looking for that next
+comfortable achnorage, your rigging is what gets you there safely. We specialize
+in modern fibers and tailor your rigging to your boat, plans and crew.
 
-<section class="portfolio rigging">
+<!-- <section class="portfolio rigging">
   <div class="wrap">
     <div class="portfolio-item">
       <a class="portfolio-item__link" href="/rigging">
@@ -65,7 +76,8 @@ capabilities, so please don't hesitate to discuss your other projects with us.
       </a>
     </div>
   </div>
-</section>
+</section> -->
+
 
 > "Great job on my rigging. Claude is very knowledgable and reliable."
 
