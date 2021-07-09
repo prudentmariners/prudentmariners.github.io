@@ -43,7 +43,10 @@ section.intro.hero {
 div.fb-post {
 
   margin: 20px auto;
-  max-width: 75%;
+  width: 80%;
+  @include mq(desktop) {
+		width: 65%;
+	}
   display: block;
 }
 
