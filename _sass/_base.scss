@@ -161,9 +161,10 @@ header {
     position: relative;
     width: 100%;
     min-height: auto;
+    max-height: 100%;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../images/portsmouth-norfolk-1873.jpg');
     text-align: center;
     color: white;
     .header-content {

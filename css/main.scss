@@ -35,34 +35,13 @@
 
 // variables.less
 // $theme-primary: #F05F40;
-$theme-primary: #03a2ac;
-$theme-dark: #222;
+$theme-primary: #172546;
+// $theme-dark: #f04020;
+$theme-dark: #555;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
         "mixins",
-        "base"
+        "base",
+        "custom"
 ;
-
-form#mc-embedded-subscribe-form {
-
-  label {
-    display: none;
-  }
-
-  input[type=email] {
-    width: 80%;
-    padding: 8px 4px;
-    color: $theme-primary;
-    font-size: 20px;
-    border: none;
-    border-radius: 2px;
-    text-align: center;
-  }
-
-  input[type=submit] {
-    margin-top: 10px;
-    background-color: $theme-primary;
-    color: white;
-  }
-}

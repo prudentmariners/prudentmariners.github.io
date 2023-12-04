@@ -1,0 +1,42 @@
+header {
+  background-color: #000;
+  opacity: 80;
+  color: 000;
+}
+
+a.navbar-brand {
+  font-family: 'Comfortaa' !important;
+  text-transform: none !important;
+}
+
+div.header-content-inner h1 {
+  font-family: 'Comfortaa';
+  text-transform: none !important;
+}
+
+form#mc-embedded-subscribe-form {
+
+  label {
+    display: none;
+  }
+
+  input[type=email] {
+    width: 80%;
+    padding: 8px 4px;
+    color: $theme-primary;
+    font-size: 20px;
+    border: none;
+    border-radius: 2px;
+    text-align: center;
+  }
+
+  input[type=submit] {
+    margin-top: 10px;
+    background-color: $theme-primary;
+    color: white;
+  }
+}
+
+section#brands div.service-box img {
+  height: 50px;
+}
